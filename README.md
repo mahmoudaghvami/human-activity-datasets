@@ -22,4 +22,4 @@ Welcome to the **Human Activity Recognition (HAR) Datasets Repository**! This pa
 ✅ **Smart home automation & IoT**  
 ✅ **Healthcare monitoring (elderly care, assisted living)**  
 
-📌 [GitHub Repository](https://github.com/yourusername/human-activity-datasets)
+📌 [GitHub Repository](https://github.com/mahmoudaghvami/human-activity-datasets)

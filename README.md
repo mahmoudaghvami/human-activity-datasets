@@ -1,4 +1,4 @@
-# 📡 Human Activity Recognition (HAR) Datasets
+# Human Activity Recognition (HAR) Datasets
 
 Welcome to the **Human Activity Recognition (HAR) Datasets Repository**! This page provides an overview of publicly available datasets used for **smart home automation, activity recognition, and machine learning**.
 
